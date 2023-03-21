@@ -1,0 +1,111 @@
+:root{
+	--f7-theme-color:#4d0404;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #4d0404; /*navbar link*/
+	--f7-navbar-text-color:#4d0404;
+	--f7-bars-bg-color:#4d0404;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #fff; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.panel-left {
+	background-color: #4d0404;
+}
+.panel-left h3{
+	font-size: 20px;
+	color: #ffaaaa;
+}
+.panel-left .links-list ul{
+	background-color: transparent;
+	font-size: 15px;
+	color:#fff;
+}
+img{
+	width: 100%;
+	display: block;
+}
+#index img{
+	width: 100%;
+	display: block;
+}
+
+#index .card {
+	backgroung-color:#ffaaaa;
+	
+}
+#index .card-content {
+	background-color: #ffaaaa;
+}
+
+#index .card-header{
+	padding: 0;
+	border-radius: 0;
+}
+#index .card-header img{
+	border-radius: 5px;
+}
+
+#index .card{
+	box-shadow: none;
+	background-color: transparent;
+}
+
+#index .img-fluid{
+	max-width: 100%;
+	display:block;
+}
+#index p, h4{
+	color:#4d0404;
+	padding: 2px, 0;
+	font-size: 12px;
+	margin: 0;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.card-content {
+	background-color: #ffdfdf;
+}
+#juguetes img{
+	width: 100%;
+	display: block;
+}
+
+#set p, h2, h3{
+	color: #4d0404;
+	text-align: center;
+}
+#set .add-button{
+	color: #fff;
+	background-color: #4d0404;
+	padding: 15px, 1px;
+	font-size: 20px;
+	border-radius: 40px;
+	line-height: 35px;
+	
+}
+
+#set h4{
+	 padding-bottom: 10px;
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
